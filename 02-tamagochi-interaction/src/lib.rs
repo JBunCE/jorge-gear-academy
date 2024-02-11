@@ -1,5 +1,4 @@
 #![no_std]
-use core::ops::Sub;
 use gstd::{debug, exec, msg, prelude::*};
 use io::{Tamagochi, TmAction, TmEvent};
 
